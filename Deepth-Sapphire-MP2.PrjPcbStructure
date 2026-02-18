@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Project_Overview.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Project_Overview.SchDoc|Designator=Project_Top_Arch|SchDesignator=Project_Top_Arch|FileName=Project_Top_Arch.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Project_Top_Arch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Project_Top_Arch.SchDoc|Designator=Power_MPU|SchDesignator=Power_MPU|FileName=Power_MPU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power_MPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Project_Top_Arch.SchDoc|Designator=Power_PMIC|SchDesignator=Power_PMIC|FileName=Power_PMIC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power_PMIC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
